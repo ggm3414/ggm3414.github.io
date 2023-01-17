@@ -157,3 +157,17 @@ secret로 하면 내 gish에서는 타인이 볼 수 없으며, pulic은 볼 수
 minimal-mistakes 테마의 커스터마이징 및 포스팅에 작성한 글이 존재합니다. <br>
 **Github_Blog 카테고리**를 클릭하셔서 확인해보세요!<br>
 {: .notice--success}
+
+    ```java
+    static void permutation(int[] array, int depth, int r) {
+      if(depth == r) {
+        System.out.println(Arrays.toString(array));
+        return;
+      }
+      for(int i = depth; i<array.length; i++) {
+        swap(array, depth, i);
+        permutation(array, depth+1, r);
+        swap(array, depth, i);
+      }
+    }
+    ```
