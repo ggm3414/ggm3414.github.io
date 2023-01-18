@@ -10,6 +10,7 @@ toc: true
 toc_sticky: true
 toc_label: "CONFIG MODIFY"
 toc_icon: "blog"
+published: false
 ---
 
 📌 **작성자 개발 환경** <br>
