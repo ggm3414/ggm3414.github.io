@@ -14,3 +14,7 @@ BLOG FONT 조절하기
 하이퍼링크 밑줄 제거
 수정 파일 : github.io 폴더 > _sass 폴더 > _minimal-mistakes 폴더 > _base.scss
 
+
+명령어
+cmd > gem install bundler
+cmd > bundler exec jekyll serve
