@@ -16,5 +16,5 @@ BLOG FONT 조절하기
 
 
 명령어
-cmd > gem install bundler
+cmd > gem install bundler   
 cmd > bundler exec jekyll serve
