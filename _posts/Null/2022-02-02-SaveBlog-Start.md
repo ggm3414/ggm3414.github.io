@@ -40,6 +40,7 @@ Non Ohana 小花のん
 <br>
 
 https://www.youtube.com/channel/UC1bAyqbwA9sI29N60qNMFOA<br>
+https://youtu.be/7TAMUMfkjOk <br>
 
 <!--
   📌 **작성자 개발 환경** <br>
