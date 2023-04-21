@@ -41,8 +41,7 @@ Non Ohana 小花のん
 
 https://www.youtube.com/channel/UC1bAyqbwA9sI29N60qNMFOA<br>
 https://youtu.be/7TAMUMfkjOk <br>
-Dependencies - An open-source modern Dependency Walker <br>
-https://github.com/lucasg/Dependencies <br>
+
 <!--
   📌 **작성자 개발 환경** <br>
 **OS** : Windows 10<br>
