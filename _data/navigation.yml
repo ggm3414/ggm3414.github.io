@@ -1,0 +1,63 @@
+# main links
+main:
+  - title: "Home"
+    url: https://YoungJ-Baek.github.io/
+  - title: "About"
+    url: /about/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+
+side:
+  - title: C++
+    url: /categories/Cpp/
+    children:
+      - title: "Article"
+        url: /categories/Cpp_Article/
+      - title: "Tips"
+        url: /categories/Cpp_Tips/
+  - title: Python
+    url: /categories/Python/
+    children:
+      - title: "Article"
+        url: /categories/Python_Article/
+      - title: "Tips"
+        url: /categories/Python_Tips/
+  - title: Rust
+    url: /categories/Rust/
+    children:
+      - title: "Article"
+        url: /categories/Rust_Article/
+      - title: "Tips"
+        url: /categories/Rust_Tips/
+  - title: Computer Vision
+    url: /categories/Computer_Vision/
+    children:
+      - title: "Optical Flow"
+        url: /categories/CV_Optical_Flow/
+      - title: "SLAM"
+        url: /categories/CV_SLAM/
+      - title: "Algorithms"
+        url: /categories/CV_Algorithms/
+  - title: Computer Science
+    url: /categories/Computer_Science/
+    children:
+      - title: "Network"
+        url: /categories/CS_Network/
+      - title: "Linux"
+        url: /categories/CS_Linux/
+  - title: Blog
+    url: /categories/Blog/
+    children:
+      - title: "Daily"
+        url: /categories/Blog_Daily/
+      - title: "Tips"
+        url: /categories/Blog_Tips/
+
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
