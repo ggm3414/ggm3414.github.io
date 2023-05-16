@@ -10,6 +10,19 @@ main:
     url: /tags/
 
 side:
+  - title: Unity
+    url: /categories/Unity/
+    children:
+      - title: "UniTask"
+        url: /categories/UniTask/
+      - title: "UniRx"
+        url: /categories/UniRx/
+      - title: "JobSystem"
+        url: /categories/JobSystem/
+      - title: "Compute Shader"
+        url: /categories/ComputeShader/
+      - title: "Tips"
+        url: /categories/Unity_Tips/
   - title: C++
     url: /categories/Cpp/
     children:
