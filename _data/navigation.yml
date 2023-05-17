@@ -30,36 +30,13 @@ side:
         url: /categories/Cpp_Article/
       - title: "Tips"
         url: /categories/Cpp_Tips/
-  - title: Python
-    url: /categories/Python/
+  - title: Research
+    url: /categories/Research/
     children:
-      - title: "Article"
-        url: /categories/Python_Article/
+      - title: "Daily"
+        url: /categories/Research_Daily/
       - title: "Tips"
-        url: /categories/Python_Tips/
-  - title: Rust
-    url: /categories/Rust/
-    children:
-      - title: "Article"
-        url: /categories/Rust_Article/
-      - title: "Tips"
-        url: /categories/Rust_Tips/
-  - title: Computer Vision
-    url: /categories/Computer_Vision/
-    children:
-      - title: "Optical Flow"
-        url: /categories/CV_Optical_Flow/
-      - title: "SLAM"
-        url: /categories/CV_SLAM/
-      - title: "Algorithms"
-        url: /categories/CV_Algorithms/
-  - title: Computer Science
-    url: /categories/Computer_Science/
-    children:
-      - title: "Network"
-        url: /categories/CS_Network/
-      - title: "Linux"
-        url: /categories/CS_Linux/
+        url: /categories/Research_Tips/
   - title: Blog
     url: /categories/Blog/
     children:
@@ -67,6 +44,7 @@ side:
         url: /categories/Blog_Daily/
       - title: "Tips"
         url: /categories/Blog_Tips/
+
 
   # - title: "Sample Posts"
   #   url: /year-archive/
