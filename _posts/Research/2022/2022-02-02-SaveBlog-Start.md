@@ -44,12 +44,3 @@ Leonor Watling <br>
 
 [1](https://www.youtube.com/channel/UC1bAyqbwA9sI29N60qNMFOA){:target="_blank"} Youtube<br>
 [2](https://youtu.be/7TAMUMfkjOk){:target="_blank"} Youtube <br>
-
-<!--
-  📌 **작성자 개발 환경** <br>
-**OS** : Windows 10<br>
-{: .notice--primary}
-
-  <sup><i>Kat Altman</i></sup><br>
-  <sup><i>Jennifer Love Hewitt</i></sup><br>
--->
