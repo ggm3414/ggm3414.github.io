@@ -35,6 +35,7 @@ published: true
 # 품번
 yuma dv-1126 <br>
 SSIS-532 Konan Koyoi
+HMN-372
 
 Non Ohana 小花のん <br>
 
