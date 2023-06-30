@@ -43,6 +43,7 @@ Jun Kakei - SSIS-068<br>
 Momo Nanase<br>
 Arisu Kisaki - ebod-853<br>
 Non Ohana 小花のん <br>
+Yurina Momose eyan-045 <br>
 
 Movie Actor <br>
 Leonor Watling <br>
