@@ -36,7 +36,9 @@ published: true
 yuma dv-1126 <br>
 SSIS-532 Konan Koyoi<br>
 HMN-372<br>
-
+Ren Ayase - 274ETQT-168, GHPM-70<br>
+Monami Takarada - ISRD-021<br>
+Jun Kakei - SSIS-068<br>
 Non Ohana 小花のん <br>
 
 Movie Actor <br>
