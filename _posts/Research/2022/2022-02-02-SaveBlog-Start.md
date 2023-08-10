@@ -49,7 +49,7 @@ Movie Actor <br>
 Leonor Watling <br>
 
 - https://www.instagram.com/yonsicute33/ <br>
-
+- https://github.com/KurtBestor/Hitomi-Downloader <br>
 <br>
 
 [1](https://www.youtube.com/channel/UC1bAyqbwA9sI29N60qNMFOA){:target="_blank"} Youtube<br>
