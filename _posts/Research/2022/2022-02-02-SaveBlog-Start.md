@@ -44,6 +44,8 @@ Momo Nanase<br>
 Arisu Kisaki - ebod-853<br>
 Non Ohana 小花のん <br>
 Yurina Momose eyan-045 <br>
+Yuino ゆいの EYAN-018 <br>
+China Matsuoka 松岡ちな STAR-701 <br>
 
 Movie Actor <br>
 Leonor Watling <br>
