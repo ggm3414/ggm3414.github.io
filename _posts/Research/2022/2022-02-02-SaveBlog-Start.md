@@ -61,12 +61,13 @@ Jennifer Love Hewitt<br>
 Laura Surrich / Georgina Leeming <br>
 Mia Melano <br>
 
-**러시아 배우:** Milena Radulovic  
-**프랑스 배우:** 솔렌 리갓 (Solène Rigot)  
-**폴란드 배우:** Ewelina Olczak  
-**미국       :** Leelee Sobieski  
-**미국       :** Rachel Nichols  
-**미국       :** Addison Timlin
+**러시아 배우:** Milena Radulovic <br>
+**프랑스 배우:** 솔렌 리갓 (Solène Rigot) <br>
+**폴란드 배우:** Ewelina Olczak <br>
+**미국       :** Leelee Sobieski <br>
+**미국       :** Rachel Nichols <br>
+**미국       :** Addison Timlin <br>
+**미국       :** Maika Monroe <br>
 
 **사이트:** [나무위키](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4 "마크 사용법")  
 **사이트:** [1](https://celebsroulette.com/videos/3210/solene-rigot-audrey-bastien-puppylove-2013/ "해외 영화 엑키스")  
