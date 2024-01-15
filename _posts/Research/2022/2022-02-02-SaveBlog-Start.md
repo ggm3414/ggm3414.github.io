@@ -69,6 +69,7 @@ Mia Melano <br>
 **미국       :** Addison Timlin <br>
 **미국       :** Maika Monroe <br>
 **미국       :** Tea Leoni <br>
+**미국       :** Emily VanCamp <br>
 
 **사이트:** [나무위키](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4 "마크 사용법")  
 **사이트:** [1](https://celebsroulette.com/videos/3210/solene-rigot-audrey-bastien-puppylove-2013/ "해외 영화 엑키스")  
